@@ -1,0 +1,11 @@
+
+# Large datasets / archives
+*.zip
+PAPILA.zip
+data/
+datasets/
+papila_dataset/
+checkpoints*/
+samples*/
+augmented_*/
+synthetic_*/
