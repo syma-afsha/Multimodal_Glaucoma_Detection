@@ -1,4 +1,4 @@
-# 🧠 Multimodal Glaucoma Detection (FusionNet + JointStreamNet)
+# 👁️ Multimodal Glaucoma Detection (FusionNet + JointStreamNet)
 
 Code-focused repository for multimodal glaucoma detection using retinal fundus images.
 
@@ -19,3 +19,5 @@ pip install --upgrade pip
 # Install common dependencies
 pip install numpy pandas matplotlib scikit-learn opencv-python pillow tqdm
 pip install torch torchvision
+
+
