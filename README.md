@@ -24,8 +24,6 @@ pip install torch torchvision
 
 Multimodal_Glaucoma_Detection/
 ├── main_fixed.ipynb # Main training + evaluation notebook (recommended)
-├── main.ipynb # Alternative/original notebook
-├── draw.py # Plotting / utility script
 │
 ├── plots/ # Training curves + comparison plots (AUC/ACC/Loss)
 ├── train_grids/ # Saved grids / visual outputs from training
@@ -51,6 +49,18 @@ Multimodal_Glaucoma_Detection/
 ├── checkpoints_final/ # Saved checkpoints (ignored)
 ├── checkpoints_joint/ # Saved checkpoints (ignored)
 ├── checkpoints_clinical/ # Saved checkpoints (ignored)
-│
+
+## 📥 Dataset (PAPILA)
+
+This project uses the **PAPILA retinal fundus dataset**.
+
+> ⚠️ The dataset is **not included** in this GitHub repository due to licensing and GitHub file-size limits.
+
+### ✅ Download (Official Source)
+
+Download PAPILA from Figshare: https://figshare.com/articles/dataset/PAPILA/14798004
+
+## ▶️ How to Run Training & Evaluation
+      #### main_fixed.ipynb
 
 
