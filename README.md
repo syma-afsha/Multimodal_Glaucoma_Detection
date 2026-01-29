@@ -56,11 +56,11 @@ This project uses the **PAPILA retinal fundus dataset**.
 
 > ⚠️ The dataset is **not included** in this GitHub repository due to licensing and GitHub file-size limits.
 
-### Download (Official Source)
+## Download (Official Source)
 
 Download PAPILA from Figshare: https://figshare.com/articles/dataset/PAPILA/14798004
 
 ## ▶️ How to Run Training & Evaluation
-#### main_fixed.ipynb
+## main_fixed.ipynb
 
 
